@@ -99,37 +99,13 @@ class Queens():
  
                 
                         
-                while True:
-                    pass  
-
+                input()
             
-                    
-            
-                
-            
-  
-                
 try:     
       
     Queens()                                
 except:
     os.system(f"start {path}\Queen.py")    
                 
-        
-        
-
-
-            
-                
-        
-
-        
-        
-        
-        
-
           
-        
-
-            
         
